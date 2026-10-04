@@ -1,0 +1,21 @@
+﻿Rebuild started at 7:07 PM...
+1>------ Rebuild All started: Project: Lepork Panel 2, Configuration: Debug Any CPU ------
+Restored C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\Lepork Panel 2.csproj (in 2 ms).
+1>C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\MainWindow.xaml.cs(86,27,86,37): warning CS8618: Non-nullable field 'DevicePath' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the field as nullable.
+1>C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\MainWindow.xaml.cs(87,27,87,38): warning CS8618: Non-nullable field 'DisplayName' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the field as nullable.
+1>C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\MainWindow.xaml.cs(91,16,91,26): warning CS8618: Non-nullable field 'statsTimer' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the field as nullable.
+1>C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\MainWindow.xaml.cs(129,20,129,41): warning CS8603: Possible null reference return.
+1>C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\MainWindow.xaml.cs(1367,21,1369,30): warning CS8600: Converting null literal or possible null value to non-nullable type.
+1>C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\MainWindow.xaml.cs(1384,37,1384,58): warning CS8600: Converting null literal or possible null value to non-nullable type.
+1>C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\MainWindow.xaml.cs(1387,37,1389,59): warning CS8600: Converting null literal or possible null value to non-nullable type.
+1>C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\MainWindow.xaml.cs(1397,45,1397,52): warning CS8602: Dereference of a possibly null reference.
+1>C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\MainWindow.xaml.cs(1457,21,1458,74): warning CS8600: Converting null literal or possible null value to non-nullable type.
+1>C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\MainWindow.xaml.cs(1470,33,1470,51): warning CS8600: Converting null literal or possible null value to non-nullable type.
+1>C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\MainWindow.xaml.cs(1661,25,1661,44): warning CS8600: Converting null literal or possible null value to non-nullable type.
+1>C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\MainWindow.xaml.cs(2152,21,2157,42): warning CS8600: Converting null literal or possible null value to non-nullable type.
+1>C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\MainWindow.xaml.cs(2219,21,2220,48): warning CS8600: Converting null literal or possible null value to non-nullable type.
+1>C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\MainWindow.xaml.cs(2233,29,2233,47): warning CS8600: Converting null literal or possible null value to non-nullable type.
+1>C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\MainWindow.xaml.cs(2399,21,2399,40): warning CS8600: Converting null literal or possible null value to non-nullable type.
+1>  Lepork Panel 2 -> C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\bin\Debug\net10.0-windows\Lepork Panel 2.dll
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+========== Rebuild completed at 7:07 PM and took 00.544 seconds ==========
