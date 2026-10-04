@@ -1,0 +1,20 @@
+C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\bin\Debug\net10.0-windows\Lepork Panel 2.exe
+C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\bin\Debug\net10.0-windows\Lepork Panel 2.deps.json
+C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\bin\Debug\net10.0-windows\Lepork Panel 2.runtimeconfig.json
+C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\bin\Debug\net10.0-windows\Lepork Panel 2.dll
+C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\bin\Debug\net10.0-windows\Lepork Panel 2.pdb
+C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\obj\Debug\net10.0-windows\Lepork Panel 2_MarkupCompile.cache
+C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\obj\Debug\net10.0-windows\Lepork Panel 2.g.resources
+C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\obj\Debug\net10.0-windows\Lepork Panel 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\obj\Debug\net10.0-windows\Lepork Panel 2.AssemblyInfoInputs.cache
+C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\obj\Debug\net10.0-windows\Lepork Panel 2.AssemblyInfo.cs
+C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\obj\Debug\net10.0-windows\Lepork Panel 2.csproj.CoreCompileInputs.cache
+C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\obj\Debug\net10.0-windows\Lepork Panel 2.dll
+C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\obj\Debug\net10.0-windows\refint\Lepork Panel 2.dll
+C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\obj\Debug\net10.0-windows\Lepork Panel 2.pdb
+C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\obj\Debug\net10.0-windows\Lepork Panel 2.genruntimeconfig.cache
+C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\obj\Debug\net10.0-windows\ref\Lepork Panel 2.dll
+C:\Users\f7195\source\repos\Lepork Panel 2\Lepork Panel 2\obj\Debug\net10.0-windows\Lepork P.FB7C624B.Up2Date
